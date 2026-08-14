@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Streamlit**
 
-- 👨‍💻 All of my projects are available at [[aishkhalil.com](https://www.aishakhalil.com)]
+- 👨‍💻 All of my projects are available at [[aisahkhalil.com](https://www.aishakhalil.com)]
 
 - 📫 How to reach me **aishakhal04@gmail.com**
 
